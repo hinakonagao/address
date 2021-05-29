@@ -4,14 +4,13 @@ https://www.udemy.com/course/vuejs-firebase/
 <br><br>
 
 ## 使用技術
-・Vue.js ２.5.21
+・Vue.js 2.5.21
 <br><br>
 
 ## 搭載機能
 ・ログイン機能(FirebaseのAuthenticationにより、Googleアカウントでの認証を実装)<br>
 ・データの保存、一覧表示、更新、削除<br>
-・サイドメニュー（Vuetifyにて実装）<br>
-・Vue.js ２.5.21
+・サイドメニュー（Vuetifyにて実装）
 <br><br>
 
 ## 学習内容
