@@ -4,15 +4,15 @@ https://www.udemy.com/course/vuejs-firebase/
 <br><br>
 
 ## 使用技術
-・Vue.js 
+・Vue.js ２.5.21
 <br><br>
 
 ## 搭載機能
 
 ## 学習内容
-・Vue.jsの基本的な機能（）
+・Vue.jsの基本的な機能（el、data、$watch）
 ・Vueインスタンスのライフサイクル
-・コンポーネント
+・コンポーネントの概要、コンポーネント間のデータの受け渡し（props、$emit、sync修飾子）
 ・Vue CLIによる環境構築
 ・Vue Routerによるルーティング
 ・Vuexによるデータフロー、状態管理
