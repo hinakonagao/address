@@ -10,11 +10,11 @@ https://www.udemy.com/course/vuejs-firebase/
 ## 搭載機能
 
 ## 学習内容
-・Vue.jsの基本的な機能（el、data、$watch）
+・Vue.jsの基本的な機能（el、data、$watch、v-bind、v-on、v-if、v-show、v-for、v-model、templateオプション）
 ・Vueインスタンスのライフサイクル
 ・コンポーネントの概要、コンポーネント間のデータの受け渡し（props、$emit、sync修飾子）
 ・Vue CLIによる環境構築
-・Vue Routerによるルーティング
+・Vue RouterによるSPAのルーティング
 ・Vuexによるデータフロー、状態管理
 ・Firebase Authenticationを使用した認証機能の実装
 ・Firebase Cloud Firestoreを使用したデータの永続化
