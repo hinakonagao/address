@@ -1,4 +1,4 @@
-## アドレス帳（udemyでの学習）
+## 学習③ アドレス帳（udemyでの学習）
 教材：Vue.js + Firebaseで作るシングルページアプリケーション<br>
 https://www.udemy.com/course/vuejs-firebase/
 <br><br>
