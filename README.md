@@ -6,6 +6,7 @@ https://www.udemy.com/course/vuejs-firebase/<br>
 
 ## 使用技術
 ・Vue.js 2.5.21
+・Firebase
 <br><br>
 
 ## 搭載機能
