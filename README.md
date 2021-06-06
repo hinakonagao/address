@@ -22,7 +22,7 @@ https://www.udemy.com/course/vuejs-firebase/<br>
 ・Vue CLIによる環境構築<br>
 ・Vue Routerによるルーティング<br>
 ・Vuetifyの導入<br>
-・Vuexによるデータフローの(Action、Mutation、State、Getter)<br>
+・Vuexによるデータフロー(Action、Mutation、State、Getter)<br>
 ・Firebase Authenticationを使用した認証機能の実装<br>
 ・Firebase Cloud Firestoreを使用したデータベースの作成<br>
 ・Firebase Hostingによるアプリケーションの公開
