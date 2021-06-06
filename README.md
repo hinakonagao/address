@@ -1,6 +1,7 @@
 ## 学習③ アドレス帳（udemyでの学習）
 教材：Vue.js + Firebaseで作るシングルページアプリケーション<br>
-https://www.udemy.com/course/vuejs-firebase/
+https://www.udemy.com/course/vuejs-firebase/<br>
+デプロイURL：https://my-address-pj-be56f.web.app/addresses
 <br><br>
 
 ## 使用技術
